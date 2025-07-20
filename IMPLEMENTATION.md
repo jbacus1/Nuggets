@@ -1,24 +1,11 @@
 # CS50 Nuggets
 ## Implementation Spec
-### Ctrl-Alt-Elite, Team 7, Winter, 2025
+### Team 7, Winter, 2025
 
-> **Extra Credit:**
-> Limited players' visibility to a radius of 5
-
-According to the [Requirements Spec](REQUIREMENTS.md), the Nuggets game requires two standalone programs: a client and a server.
 Our design also includes a grid module.
 We describe each program and module separately.
 We do not describe the `support` library nor the modules that enable features that go beyond the spec.
 We avoid repeating information that is provided in the requirements spec.
-
-## Plan for division of labor
-### Tasks by person
- 1. Nate - Server (Visibility)
- 2. Jacob - Server (Ports)
- 3. Todd - Grid and Map and DESIGN, IMPLEMENTATION, and README
- 4. Axel - Client and MakeFile and DESIGN, IMPLEMENTATION, and README
-
-Each person is responsible for testing their portion of the project, and documenting their implementations in their code. 
 
 ## Client
 

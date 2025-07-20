@@ -1,12 +1,7 @@
 # CS50 Nuggets
 ## Design Spec
 ### Team 7, Winter, 2025
-### Nate, Jacob, Todd, Axel
 
-> **Extra Credit:**
-> Limited players' visibility to a radius of 5
-
-According to the [Requirements Spec](REQUIREMENTS.md), the Nuggets game requires two standalone programs: a client and a server.
 Our design also includes a grid module and a player struct locally defined in the server file.
 We describe each program and module separately.
 We do not describe the `support` library nor the modules that enable features that go beyond the spec.
